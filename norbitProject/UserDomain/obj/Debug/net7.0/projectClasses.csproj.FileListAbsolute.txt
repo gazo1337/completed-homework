@@ -1,0 +1,12 @@
+C:\Users\ender\OneDrive\Рабочий стол\учёба\Норбит\completed-homework\norbitProject\UserDomain\bin\Debug\net7.0\projectClasses.deps.json
+C:\Users\ender\OneDrive\Рабочий стол\учёба\Норбит\completed-homework\norbitProject\UserDomain\bin\Debug\net7.0\projectClasses.dll
+C:\Users\ender\OneDrive\Рабочий стол\учёба\Норбит\completed-homework\norbitProject\UserDomain\bin\Debug\net7.0\projectClasses.pdb
+C:\Users\ender\OneDrive\Рабочий стол\учёба\Норбит\completed-homework\norbitProject\UserDomain\obj\Debug\net7.0\projectClasses.csproj.AssemblyReference.cache
+C:\Users\ender\OneDrive\Рабочий стол\учёба\Норбит\completed-homework\norbitProject\UserDomain\obj\Debug\net7.0\projectClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ender\OneDrive\Рабочий стол\учёба\Норбит\completed-homework\norbitProject\UserDomain\obj\Debug\net7.0\projectClasses.AssemblyInfoInputs.cache
+C:\Users\ender\OneDrive\Рабочий стол\учёба\Норбит\completed-homework\norbitProject\UserDomain\obj\Debug\net7.0\projectClasses.AssemblyInfo.cs
+C:\Users\ender\OneDrive\Рабочий стол\учёба\Норбит\completed-homework\norbitProject\UserDomain\obj\Debug\net7.0\projectClasses.csproj.CoreCompileInputs.cache
+C:\Users\ender\OneDrive\Рабочий стол\учёба\Норбит\completed-homework\norbitProject\UserDomain\obj\Debug\net7.0\projectClasses.dll
+C:\Users\ender\OneDrive\Рабочий стол\учёба\Норбит\completed-homework\norbitProject\UserDomain\obj\Debug\net7.0\refint\projectClasses.dll
+C:\Users\ender\OneDrive\Рабочий стол\учёба\Норбит\completed-homework\norbitProject\UserDomain\obj\Debug\net7.0\projectClasses.pdb
+C:\Users\ender\OneDrive\Рабочий стол\учёба\Норбит\completed-homework\norbitProject\UserDomain\obj\Debug\net7.0\ref\projectClasses.dll
