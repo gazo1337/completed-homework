@@ -1,0 +1,17 @@
+C:\Users\ender\OneDrive\Рабочий стол\учёба\Норбит\completed-homework\FreelanceProject\UserProject\UserInfrastructure\obj\Debug\net7.0\UserInfrastructure.csproj.AssemblyReference.cache
+C:\Users\ender\OneDrive\Рабочий стол\учёба\Норбит\completed-homework\FreelanceProject\UserProject\UserInfrastructure\obj\Debug\net7.0\UserInfrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ender\OneDrive\Рабочий стол\учёба\Норбит\completed-homework\FreelanceProject\UserProject\UserInfrastructure\obj\Debug\net7.0\UserInfrastructure.AssemblyInfoInputs.cache
+C:\Users\ender\OneDrive\Рабочий стол\учёба\Норбит\completed-homework\FreelanceProject\UserProject\UserInfrastructure\obj\Debug\net7.0\UserInfrastructure.AssemblyInfo.cs
+C:\Users\ender\OneDrive\Рабочий стол\учёба\Норбит\completed-homework\FreelanceProject\UserProject\UserInfrastructure\obj\Debug\net7.0\UserInfrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ender\OneDrive\Рабочий стол\учёба\Норбит\completed-homework\FreelanceProject\UserProject\UserInfrastructure\bin\Debug\net7.0\UserInfrastructure.deps.json
+C:\Users\ender\OneDrive\Рабочий стол\учёба\Норбит\completed-homework\FreelanceProject\UserProject\UserInfrastructure\bin\Debug\net7.0\UserInfrastructure.runtimeconfig.json
+C:\Users\ender\OneDrive\Рабочий стол\учёба\Норбит\completed-homework\FreelanceProject\UserProject\UserInfrastructure\bin\Debug\net7.0\UserInfrastructure.dll
+C:\Users\ender\OneDrive\Рабочий стол\учёба\Норбит\completed-homework\FreelanceProject\UserProject\UserInfrastructure\bin\Debug\net7.0\UserInfrastructure.pdb
+C:\Users\ender\OneDrive\Рабочий стол\учёба\Норбит\completed-homework\FreelanceProject\UserProject\UserInfrastructure\bin\Debug\net7.0\UserDomain.dll
+C:\Users\ender\OneDrive\Рабочий стол\учёба\Норбит\completed-homework\FreelanceProject\UserProject\UserInfrastructure\bin\Debug\net7.0\UserDomain.pdb
+C:\Users\ender\OneDrive\Рабочий стол\учёба\Норбит\completed-homework\FreelanceProject\UserProject\UserInfrastructure\obj\Debug\net7.0\UserInfrastructure.csproj.CopyComplete
+C:\Users\ender\OneDrive\Рабочий стол\учёба\Норбит\completed-homework\FreelanceProject\UserProject\UserInfrastructure\obj\Debug\net7.0\UserInfrastructure.dll
+C:\Users\ender\OneDrive\Рабочий стол\учёба\Норбит\completed-homework\FreelanceProject\UserProject\UserInfrastructure\obj\Debug\net7.0\refint\UserInfrastructure.dll
+C:\Users\ender\OneDrive\Рабочий стол\учёба\Норбит\completed-homework\FreelanceProject\UserProject\UserInfrastructure\obj\Debug\net7.0\UserInfrastructure.pdb
+C:\Users\ender\OneDrive\Рабочий стол\учёба\Норбит\completed-homework\FreelanceProject\UserProject\UserInfrastructure\obj\Debug\net7.0\UserInfrastructure.genruntimeconfig.cache
+C:\Users\ender\OneDrive\Рабочий стол\учёба\Норбит\completed-homework\FreelanceProject\UserProject\UserInfrastructure\obj\Debug\net7.0\ref\UserInfrastructure.dll

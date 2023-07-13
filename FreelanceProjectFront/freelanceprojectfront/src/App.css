@@ -1,0 +1,39 @@
+.App {
+  text-align: center;
+}
+
+
+.App-header {
+    background-color: #4CBB17;
+    min-height: 10vh;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial;
+    font-size: calc(10px + 2vmin);
+    color: white;
+    font-weight: bold;
+    padding-left: 10px;
+}
+
+.App-body {
+    background-color: #FFFFFF;
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: 800;
+    padding-top: 75px;
+}
+
+App-body1{
+    font-size: 25px;
+}
+
+.App-button {
+    display: inline-block;
+    text-decoration: none;
+    background-color: #9cffa8;
+    color: #000000;
+    border: 0px;
+    border-radius: 0px;
+    font-size: 13px;
+    padding: 21px 34px;
+}

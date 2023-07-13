@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "userProject", "norbitProjec
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UserDomain", "UserDomain\UserDomain.csproj", "{172D81E5-E9E9-4419-B63E-42C992EC0246}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "taskProject", "taskProject\taskProject.csproj", "{90D595E8-5346-4ADB-B41C-DD2C800D2224}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "taskProject", "taskProject\taskProject.csproj", "{90D595E8-5346-4ADB-B41C-DD2C800D2224}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -38,3 +38,8 @@ C:\Users\ender\OneDrive\Рабочий стол\учёба\Норбит\complete
 C:\Users\ender\OneDrive\Рабочий стол\учёба\Норбит\completed-homework\norbitProject\norbitProject\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
 C:\Users\ender\OneDrive\Рабочий стол\учёба\Норбит\completed-homework\norbitProject\norbitProject\bin\Debug\net7.0\Npgsql.dll
 C:\Users\ender\OneDrive\Рабочий стол\учёба\Норбит\completed-homework\norbitProject\norbitProject\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\ender\OneDrive\Рабочий стол\учёба\Норбит\completed-homework\norbitProject\norbitProject\bin\Debug\net7.0\Humanizer.dll
+C:\Users\ender\OneDrive\Рабочий стол\учёба\Норбит\completed-homework\norbitProject\norbitProject\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ender\OneDrive\Рабочий стол\учёба\Норбит\completed-homework\norbitProject\norbitProject\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ender\OneDrive\Рабочий стол\учёба\Норбит\completed-homework\norbitProject\norbitProject\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\ender\OneDrive\Рабочий стол\учёба\Норбит\completed-homework\norbitProject\norbitProject\bin\Debug\net7.0\System.CodeDom.dll
